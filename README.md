@@ -3,9 +3,6 @@
 Kumpulan implementasi kode dari materi **Informatics Practitioner Lecture Series 2026**, dikemas dalam satu notebook Jupyter/Colab. Setiap sel notebook mewakili satu sesi dan dapat dijalankan secara mandiri.
 
 Fokus repositori ini bukan sekadar menyalin teori, tetapi menerjemahkan konsep dari setiap sesi menjadi studi kasus yang bisa dijalankan: mulai dari analitik bisnis, komputasi paralel, sistem informasi geografis, machine learning end-to-end, perancangan antarmuka, hingga pemantauan deforestasi berbasis citra satelit.
-
-> **Hampir semua data pada notebook bersifat sintetis/ilustratif.** Data dibuat oleh kode agar alur analisis dapat dijalankan tanpa ketergantungan pada data asli. Satu-satunya dataset publik yang dipakai adalah dataset *wine* bawaan scikit-learn pada Sesi 4. Hasilnya tidak dimaksudkan sebagai kesimpulan produksi.
-
 ---
 
 ## Daftar Isi
